@@ -6,3 +6,5 @@ fetch working
 this is to test rebase
 this is to test reset. 1234
 this is to test stash
+this is to test cherrypick
+this is to test cherry-pick
