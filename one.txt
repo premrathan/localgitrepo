@@ -5,4 +5,4 @@ this is dev2 changes in branch1 to check pull and fetch
 fetch working
 this is to test rebase
 this is to test reset. 1234
-checking stash 1
+this is to test stash
