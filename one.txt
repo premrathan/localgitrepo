@@ -2,3 +2,4 @@ this is dev2 changes.
 this is dev1 changes.
 this is branch1 code
 this is dev2 changes in branch1 to check pull and fetch
+fetch working
